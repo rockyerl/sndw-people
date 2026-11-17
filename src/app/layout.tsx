@@ -69,7 +69,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <head>
         <meta name="mobile-web-app-capable" content="yes" />
       </head>
-      <body className="h-screen w-screen overflow-hidden bg-sp-background text-sp-text antialiased">
+      <body className="min-h-screen w-full bg-sp-background text-sp-text antialiased">
         <MantineClientProvider>
           <OfflineIndicator />
           <QueryProvider>

@@ -51,7 +51,7 @@ export function AuthLayout({ children }: AuthLayoutProps) {
 
           <div className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-white/[0.04] border border-white/10 text-[10px] text-white/70">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="font-medium tracking-wide">SOC2 & ISO 27001 Certified</span>
+            <span className="font-medium tracking-wide">Enkripsi Bank TLS 1.3 & AES-256</span>
           </div>
         </div>
 
