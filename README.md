@@ -1,4 +1,4 @@
-# SUNDAWA People — HRIS Internal Frontend
+# SUNDAWA People — HRIS Internal
 
 > **People. Time. Performance.** — HRIS internal oleh PT Sundawa Teknologi Indonesia
 
