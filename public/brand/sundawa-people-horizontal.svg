@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="205" viewBox="0 0 810 205" role="img" aria-label="SUNDAWA People HRIS product logo"><g transform="translate(25 28) scale(1.23)"><defs>
+      <linearGradient id="goldg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#A66A2C"/><stop offset="48%" stop-color="#DBC977"/><stop offset="79%" stop-color="#F0D98B"/><stop offset="100%" stop-color="#A66A2C"/></linearGradient>
+      <linearGradient id="blueg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#277FD3"/><stop offset="100%" stop-color="#0056AA"/></linearGradient>
+    </defs>
+    <ellipse cx="65" cy="66" rx="52" ry="31" transform="rotate(-27 65 66)" fill="none" stroke="url(#goldg)" stroke-width="5.3" opacity=".98"/>
+    <path d="M22 87C22 68 32 56 44 56C57 56 64 66 66 85" fill="#0E1E30"/>
+    <circle cx="44" cy="38" r="11" fill="#0E1E30"/>
+    <path d="M68 88C68 72 76 63 86 63C96 63 104 72 104 88" fill="url(#blueg)"/>
+    <circle cx="85" cy="47" r="9" fill="url(#blueg)"/>
+    <circle cx="110" cy="44" r="6.5" fill="url(#goldg)"/>
+    <path d="M17 87C37 114 95 106 116 64" fill="none" stroke="url(#goldg)" stroke-width="3.8" stroke-linecap="round"/>
+    </g><line x1="195" y1="39" x2="195" y2="178" stroke="#DBC977" stroke-width="2" opacity=".92"/><text x="230" y="104" font-family="Montserrat, Inter, Arial, sans-serif" font-size="66" font-weight="800" letter-spacing="1.5" fill="#0E1E30">SUNDAWA</text><text x="232" y="169" font-family="Montserrat, Inter, Arial, sans-serif" font-size="63" font-weight="700" fill="#DBC977">People</text></svg>
